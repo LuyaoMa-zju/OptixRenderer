@@ -157,7 +157,7 @@ Followings are examples of `area` light and `envmap` respectively.
   <string name="filename" value="/home/exx/Zhengqin/SceneMaterial/Code/optix_advanced_samples/src/optixSUNCG/cbox/meshes/cbox_luminaire.obj"/>
   <emitter type="area">
     <rgb name="radiance" value="20.0 20.0 20.0"/>
-  </emitter>
+  </emitter> 
 </shape>
 
 <emitter type = "envmap">
